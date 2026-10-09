@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>안­전­놀­이­터</title>
+    <link>https://slotlife1-podcast.github.io/</link>
+    <description>‘안전’이라는 표현만으로 사이트의 신뢰성을 판단하지 않도록 돕는 피해 예방 안내입니다. 서비스의 안전성을 인증하거나 이용을 권유하는 방송이 아닙니다. 출처가 없는 보증 문구와 확인 가능한 사실을 구분하는 것을 주제로 삼습니다. 현재 공개된 음원은 기존에 사용한 약 33초의 야구 BGM이며, 위 주제를 설명하는 음성 해설이 아닙니다. 이 안내 문구와 음악은 구분해 제공합니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 09 Oct 2026 06:43:46 GMT</lastBuildDate>
+    <atom:link href="https://slotlife1-podcast.github.io/safe-guide.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>안전놀이터</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>안전놀이터</itunes:name>
+      <itunes:email>saravanan45543@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://slotlife1-podcast.github.io/cover.jpg" />
+    <itunes:category text="Music" />
+    <image>
+      <url>https://slotlife1-podcast.github.io/cover.jpg</url>
+      <title>안­전­놀­이­터</title>
+      <link>https://slotlife1-podcast.github.io/</link>
+    </image>
+    <item>
+      <title>안전놀이터 · 야구 BGM</title>
+      <description>약 33초의 야구 BGM입니다. 기존 음악 파일을 사용한 회차이며, 새로운 녹음이나 피해 예방 음성 강의는 포함하지 않습니다. ‘안전’이라는 표현만으로 사이트의 신뢰성을 판단하지 않도록 돕는 피해 예방 안내입니다. 서비스의 안전성을 인증하거나 이용을 권유하는 방송이 아닙니다. 출처가 없는 보증 문구와 확인 가능한 사실을 구분하는 것을 주제로 삼습니다.</description>
+      <link>https://slotlife1-podcast.github.io/safe-guide.xml</link>
+      <guid isPermaLink="false">additional-20261009-safe-guide-bgm-001</guid>
+      <pubDate>Fri, 09 Oct 2026 06:43:46 GMT</pubDate>
+      <enclosure url="https://slotlife1-podcast.github.io/episode-001-baseball-bgm.mp3" length="780588" type="audio/mpeg" />
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
